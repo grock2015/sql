@@ -1,5 +1,5 @@
 CREATE DATABASE School;
-USE School GO
+USE School;
 
 CREATE TABLE SStudent (
     StudentID INT PRIMARY KEY NOT NULL,
